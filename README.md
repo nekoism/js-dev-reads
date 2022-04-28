@@ -38,7 +38,7 @@ Here I have hand-picked web development/JavaScript books and articles I have per
 
 ### Things to think about :thinking:
 
-> Free books. Who doesn't like free books?! But if you are able, buy the book if it is offered as an option. No worries if you can't. But if it helps the devs continue to put out quality content then it is worth it.
+> Free books. Who doesn't like free books?! But if you are able, buy the book if it is offered as an option. No worries if you can't. But it helps the devs continue to put out quality content then it is worth it.
 
 ---
 
